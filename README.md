@@ -93,12 +93,24 @@ c) Calculate the results in the ‘WTP Results’ pane by selecting the pathway 
 <a href="https://imgur.com/jxjui8F"><img src="https://i.imgur.com/jxjui8F.png" alt="WTP Results - Natural Gas as LNG" /></a>
 </p>
 
-<h2>Impact Assessment:</h2>
+<h2>Impact Assessment (CO2 Total Emissions):</h2>
 
-<p align="center">
-<br/>
-<a href="https://imgur.com/v9tGdzn"><img src="https://i.imgur.com/v9tGdzn.jpg" alt="Basic Solar Finance Model" /></a>
-</p>
+<b>Transportation of natural gas from a location in North America to an export terminal in Louisiana (using pipelines)</b>
+1. NG from Shale and Conventional Recovery - 4.3686 kg
+2. Pathway - NG pipeline from PA to LA - 10.1094 kg
+3. Emissions & Resource Use in pipeline transportation (2-1) - 5.7408 kg
+
+<b>Transportation of natural gas from a location in North America to an export terminal in Louisiana (using pipelines)</b>
+1. Pathway - NG pipeline from PA to LA -> 10.1094 kg
+2. NG Liquefaction as an intermediate fuel -> 16.6598 kg
+3. LNG Transportation via ocean tanker from Louisiana to Germany -> 17.7893 kg
+4. LNG to NG via liquid evaporation in heat exchanges -> 17.7893 kg
+5. Pathway - NG pipeline from Hamburg to Berlin, Germany -> 18.7623 kg
+6. Isolated emissions from LNG liquefaction process (2-1) -> 6.5504 kg
+7. Isolated emissions from LNG transportation from LA to Germany (3-2) -> 1.1295 kg
+8. Isolated emissions from LNG regasification to NG (4-3)	-> 0 kg
+9. Isolated emissions from NG transportation from Hamburg to Berlin (5-4) -> 0.973 kg
+
 
 <h2>Interpretation:</h2>
 
@@ -110,7 +122,7 @@ c) Calculate the results in the ‘WTP Results’ pane by selecting the pathway 
 
 <h2>References:</h2>
 
-<b>•	https://www.energy.gov/sites/prod/files/2014/02/f8/HS_NatGas_Studyguide_draft2.pdf</b>
+<b>•	https://www.energy.gov/sites/prod/files/2014/02/f8/HS_NatGas_Studyguide_draft2.pdf</b><br/>
 <b>•	https://www.eia.gov/energyexplained/natural-gas/where-our-natural-gas-comes-from.php</b>
 
 <!--
