@@ -14,10 +14,21 @@ This is a simple LCA that calculates the carbon footprint in the transportation 
 
 <p align="center">
 <br/>
-<a href="https://imgur.com/wWc22r8"><img src="https://i.imgur.com/wWc22r8.jpg" title="source: imgur.com" alt="Fuel and Vehicle Cycle (GREET)" /></a> 
+<a href="https://imgur.com/wWc22r8"><img src="https://i.imgur.com/wWc22r8.jpg" alt="Fuel and Vehicle Cycle (GREET)" /></a> 
+</p>
+
+The GREET model works by defining the product and its production system, determining the inputs and outputs of such a system, which are products, materials, and energy, and then simulating processes that convert input to output.
+
+<p align="center">
+<br/>
+<a href="https://imgur.com/zorhZ1A"><img src="https://i.imgur.com/zorhZ1A.png" alt="Natural Gas Production and Delivery" /></a> 
 </p>
 
 <h2>Goal and scope definition:</h2>
+
+For our purposes, we’ll be simulating a version of well-to-pump fuel cycle for the comparison between LNG and pipelines as the GREET model specifically caters to the LCA of fuel in transportation and not exactly fuel transportation. The GREET model especially utilizes EPA methodologies and data, for performing GHG analysis of specific energy systems. This document covers three simulations using the GREET model:
+1. Transportation of natural gas from a location in North America to an export terminal in Louisiana (using pipelines)
+2. Liquefaction of natural gas and transportation from Louisiana to Germany (using LNG tanker)
 
 <p align="center">
 <br/>
@@ -39,6 +50,14 @@ This is a simple LCA that calculates the carbon footprint in the transportation 
 </p>
 
 <h2>Interpretation:</h2>
+
+<p align="center">
+<br/>
+<a href="https://imgur.com/v9tGdzn"><img src="https://i.imgur.com/v9tGdzn.jpg" alt="Basic Solar Finance Model" /></a>
+</p>
+
+
+<h2>References:</h2>
 
 <p align="center">
 <br/>
