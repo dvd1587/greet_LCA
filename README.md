@@ -26,20 +26,43 @@ The GREET model works by defining the product and its production system, determi
 
 <h2>Goal and scope definition:</h2>
 
-For our purposes, we’ll be simulating a version of well-to-pump fuel cycle for the comparison between LNG and pipelines as the GREET model specifically caters to the LCA of fuel in transportation and not exactly fuel transportation. The GREET model especially utilizes EPA methodologies and data, for performing GHG analysis of specific energy systems. This document covers three simulations using the GREET model:
+For our purposes, we’ll be simulating a version of well-to-pump fuel cycle for the comparison between LNG and pipelines as the GREET model specifically caters to the LCA of fuel in transportation and not exactly fuel transportation, and consequently the consumption and end-of-life phase. The GREET model especially utilizes EPA methodologies and data, for performing GHG analysis of specific energy systems. This document covers two simulations using the GREET model:
 1. Transportation of natural gas from a location in North America to an export terminal in Louisiana (using pipelines)
 2. Liquefaction of natural gas and transportation from Louisiana to Germany (using LNG tanker)
 
-<p align="center">
-<br/>
-<a href="https://imgur.com/v9tGdzn"><img src="https://i.imgur.com/v9tGdzn.jpg" alt="Basic Solar Finance Model" /></a>
-</p>
-
 <h2>Inventory Analysis:</h2>
 
+The inventory analysis is limited to the following stages:
+1. Raw Material Production
+2. Process of manufacturing and production
+3. Distribution and Transportation
+
+Out of the above, we'll be especially looking into the calculation of the emissions in the third stage - distribution and transportation from the GREET model.
+
+<b>Transportation of natural gas from a location in North America to an export terminal in Louisiana (using pipelines)</b>
+
+This process is designed in the GREET Model in three steps which are as follows:
+a) Setting up the transportation process of Natural Gas from a Natural Gas field in North America (say Keystone, PA) to an export terminal in Louisiana (say Plaquemines LNG, LA). The distance between the two is roughly 1180 miles which is set as parameters.
+
 <p align="center">
 <br/>
-<a href="https://imgur.com/v9tGdzn"><img src="https://i.imgur.com/v9tGdzn.jpg" alt="Basic Solar Finance Model" /></a>
+<a href="https://imgur.com/zh5Q29j"><img src="https://i.imgur.com/zh5Q29j.png" alt="Natural Gas transportation through pipelines" /></a>
+</p>
+
+b) Setting up the pathway of the process comprising of two processes: 
+i) Stationary process of the production of natural gas from a North American Natural Gas field (in our case the Keystone PA).
+ii) Transportation process (that we created in Step 1) for the transportation of the natural gas from Keystone, PA to Plaquemines, LA).
+
+<p align="center">
+<br/>
+<a href="https://imgur.com/zCFtW8E"><img src="https://i.imgur.com/zCFtW8E.png" alt="Pathway of Natural Gas transportation" /></a>
+</p>
+
+c) Calculating the results in the ‘WTP Results’ pane by selecting the pathway created in Step 2.
+
+<p align="center">
+<br/>
+<a href="https://imgur.com/2N9h2lk"><img src="https://i.imgur.com/2N9h2lk.png" alt="WTP Results Natural Gas through pipelines" /></a>
 </p>
 
 <h2>Impact Assessment:</h2>
