@@ -58,11 +58,39 @@ ii) Transportation process (that we created in Step 1) for the transportation of
 <a href="https://imgur.com/zCFtW8E"><img src="https://i.imgur.com/zCFtW8E.png" alt="Pathway of Natural Gas transportation" /></a>
 </p>
 
-c) Calculating the results in the ‘WTP Results’ pane by selecting the pathway created in Step 2.
+c) Calculate the results in the ‘WTP Results’ pane by selecting the pathway created in Step 2.
 
 <p align="center">
 <br/>
-<a href="https://imgur.com/2N9h2lk"><img src="https://i.imgur.com/2N9h2lk.png" alt="WTP Results Natural Gas through pipelines" /></a>
+<a href="https://imgur.com/2N9h2lk"><img src="https://i.imgur.com/2N9h2lk.png" alt="WTP Results - Natural Gas through pipelines" /></a>
+</p>
+
+<b>Liquefaction of natural gas and transportation from Louisiana to Germany (using LNG tanker)</b>
+
+This process is designed in the GREET Model in three steps which are as follows:
+a) Setting up the transportation process from Plaquemines LNG plant, Louisiana to LNG import terminal in Germany (say Hamburg, Germany). The distance between the two is roughly 5000 miles which is set as parameters.
+
+<p align="center">
+<br/>
+<a href="https://imgur.com/h9cQ8sh"><img src="https://i.imgur.com/h9cQ8sh.png" alt="Natural Gas transportation as LNG" /></a> 
+</p>
+
+b) Setting up the pathway comprising of four processes/pathways (as shown in Fig 6):
+i) Pathway of the production and transportation of natural gas from a natural gas field in Keystone, PA to LNG export terminal in Plaquemines, LA (from Simulation 1 above).
+ii) Stationary process of Liquefaction of Natural Gas into Liquefied Natural Gas in the Plaquemines LNG plant, LA.
+iii) Transportation process (that we created in Step a) for the transportation of the liquefied natural gas from Plaquemines, LA to LNG terminal in Hamburg, Germany.
+iv) Stationary process of regasification of liquefied natural gas to natural gas.
+
+<p align="center">
+<br/>
+<a href="https://imgur.com/ei1bSJy"><img src="https://i.imgur.com/ei1bSJy.png" alt="Pathway of LNG transportation" /></a>
+</p>
+
+c) Calculate the results in the ‘WTP Results’ pane by selecting the pathway created in Step 2.
+
+<p align="center">
+<br/>
+<a href="https://imgur.com/jxjui8F"><img src="https://i.imgur.com/jxjui8F.png" alt="WTP Results - Natural Gas as LNG" /></a>
 </p>
 
 <h2>Impact Assessment:</h2>
