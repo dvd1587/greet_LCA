@@ -9,7 +9,9 @@ This is a simple LCA that calculates the carbon footprint in the transportation 
 - <b>GREET</b> 
 
 <h2>Introduction</h2>
-The GREET [Greenhouse Gases Regulated Emissions and Energy Use in Transportation](https://greet.anl.gov/files/2011ws-overview-lca) model was developed in 1996 by the Argonne National Laboratory. The GREET LCA model uses more than 100+ fuel production pathways from various energy feedstocks. It measures the inputs, outputs, and environmental impacts of a fuel product system throughout its lifecycle (well to wheels). 
+
+
+[Greenhouse Gases Regulated Emissions and Energy Use in Transportation](https://greet.anl.gov/files/2011ws-overview-lca) aka the GREET model was developed in 1996 by the Argonne National Laboratory. The GREET LCA model uses more than 100+ fuel production pathways from various energy feedstocks. It measures the inputs, outputs, and environmental impacts of a fuel product system throughout its lifecycle (well to wheels). 
 
 <p align="center">
 <br/>
