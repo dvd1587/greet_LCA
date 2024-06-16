@@ -41,7 +41,7 @@ Out of the above, we'll be especially looking into the calculation of the emissi
 
 <b>Transportation of natural gas from a location in North America to an export terminal in Louisiana (using pipelines)</b>
 
-This process is designed in the GREET Model in three steps which are as follows:
+This process is designed in the GREET Model in three steps which are as follows:<br/>
 a) Setting up the transportation process of Natural Gas from a Natural Gas field in North America (say Keystone, PA) to an export terminal in Louisiana (say Plaquemines LNG, LA). The distance between the two is roughly 1180 miles which is set as parameters.
 
 <p align="center">
@@ -110,10 +110,8 @@ c) Calculate the results in the ‘WTP Results’ pane by selecting the pathway 
 
 <h2>References:</h2>
 
-<p align="center">
-<br/>
-<a href="https://imgur.com/v9tGdzn"><img src="https://i.imgur.com/v9tGdzn.jpg" alt="Basic Solar Finance Model" /></a>
-</p>
+<b>•	https://www.energy.gov/sites/prod/files/2014/02/f8/HS_NatGas_Studyguide_draft2.pdf</b>
+<b>•	https://www.eia.gov/energyexplained/natural-gas/where-our-natural-gas-comes-from.php</b>
 
 <!--
  ```diff
