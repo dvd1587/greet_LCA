@@ -14,7 +14,7 @@ This is a simple LCA that calculates the carbon footprint in the transportation 
 
 <p align="center">
 <br/>
-<a href="https://imgur.com/v9tGdzn"><img src="https://www.researchgate.net/profile/Michael-Goldsby-2/publication/255247357/figure/fig1/AS:297854334717952@1448025415223/Fuel-and-vehicle-cycles-examined-in-the-GREET-model.png" alt="Fuel and Vehicle Cycle (GREET)" /></a>
+<a href="https://imgur.com/v9tGdzn"><img src="https://bioage.typepad.com/.a/6a00d8341c4fbe53ef026be41910b4200d-popup" alt="Fuel and Vehicle Cycle (GREET)" /></a>
 </p>
 
 <h2>Goal and scope definition:</h2>
