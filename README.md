@@ -1,30 +1,43 @@
 # LCA Model - Natural Gas Transportation - GREET
 
 <h2>Description</h2>
-This is a simple basic solar project finance model which calculates the future cash flows of a solar development project. 
+This is a simple LCA that calculates the carbon footprint in the transportation of natural gas through pipelines and as LNG employing the GREET model. 
 <br />
 
 <h2>Tools/Applications Used</h2>
 
-- <b>Microsoft Excel</b> 
+- <b>GREET</b> 
 
-<h2>Inputs</h2>
-The key inputs/assumptions in the creation of the model are as follows: <br/>
-- <b>System Size - 200 kW</b> <br/>
-- <b>Insolation - 1200 kWh/kW</b> <br/>
-- <b>Cost per kW - $1.50</b> <br/>
-- <b>Developer Profit - $0.50</b> <br/>
-- <b>ITC @ 30%</b> <br/>
-- <b>Energy rate per kWh - $0.150</b> <br/>
-- <b>Energy rate hike @ 2.5%</b> <br/>
-- <b>Incentive rate - $0.100</b> <br/>
-- <b>O&M Cost - $15</b> <br/>
-- <b>O&M increment rate @ 2%</b> <br/>
-- <b>Insurance Cost - $8</b> <br/>
-- <b>Additionally, there are no payments for site/roof rent and no property taxes. </b> 
-<br />
+<h2>Introduction</h2>
+The GREET [Greenhouse Gases Regulated Emissions and Energy Use in Transportation](https://greet.anl.gov/files/2011ws-overview-lca) model was developed in 1996 by the Argonne National Laboratory. The GREET LCA model uses more than 100+ fuel production pathways from various energy feedstocks. It measures the inputs, outputs, and environmental impacts of a fuel product system throughout its lifecycle (well to wheels). 
 
-<h2>Snapshot:</h2>
+<p align="center">
+<br/>
+<a href="https://imgur.com/v9tGdzn"><img src="https://i.imgur.com/v9tGdzn.jpg" alt="Basic Solar Finance Model" /></a>
+</p>
+
+<h2>Goal and scope definition:</h2>
+
+<p align="center">
+<br/>
+<a href="https://imgur.com/v9tGdzn"><img src="https://i.imgur.com/v9tGdzn.jpg" alt="Basic Solar Finance Model" /></a>
+</p>
+
+<h2>Inventory Analysis:</h2>
+
+<p align="center">
+<br/>
+<a href="https://imgur.com/v9tGdzn"><img src="https://i.imgur.com/v9tGdzn.jpg" alt="Basic Solar Finance Model" /></a>
+</p>
+
+<h2>Impact Assessment:</h2>
+
+<p align="center">
+<br/>
+<a href="https://imgur.com/v9tGdzn"><img src="https://i.imgur.com/v9tGdzn.jpg" alt="Basic Solar Finance Model" /></a>
+</p>
+
+<h2>Interpretation:</h2>
 
 <p align="center">
 <br/>
