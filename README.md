@@ -110,15 +110,13 @@ c) Calculate the results in the ‘WTP Results’ pane by selecting the pathway 
 7. Isolated emissions from LNG transportation from LA to Germany (3-2) -> 1.1295 kg
 8. Isolated emissions from LNG regasification to NG (4-3)	-> 0 kg
 9. Isolated emissions from NG transportation from Hamburg to Berlin (5-4) -> 0.973 kg
-
+10. Total isolated emissions from LNG transportation -> 8.6529 kg
 
 <h2>Interpretation:</h2>
 
-<p align="center">
-<br/>
-<a href="https://imgur.com/v9tGdzn"><img src="https://i.imgur.com/v9tGdzn.jpg" alt="Basic Solar Finance Model" /></a>
-</p>
-
+1. As seen in LNG transportation, the gasification process is emissions intensive with 6.5504 kg.
+2. Compared to pipelines, LNG tankers have fewer emissions as a transportation medium (1.1295 kg)
+3. LNG is, therefore, a better alternative over large distances, compared to pipelines.
 
 <h2>References:</h2>
 
