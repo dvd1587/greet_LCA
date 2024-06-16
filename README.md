@@ -49,9 +49,9 @@ a) Setting up the transportation process of Natural Gas from a Natural Gas field
 <a href="https://imgur.com/zh5Q29j"><img src="https://i.imgur.com/zh5Q29j.png" alt="Natural Gas transportation through pipelines" /></a>
 </p>
 
-b) Setting up the pathway of the process comprising of two processes: 
-i) Stationary process of the production of natural gas from a North American Natural Gas field (in our case the Keystone PA).
-ii) Transportation process (that we created in Step 1) for the transportation of the natural gas from Keystone, PA to Plaquemines, LA).
+b) Setting up the pathway of the process comprising of two processes: <br/>
+i) Stationary process of the production of natural gas from a North American Natural Gas field (in our case the Keystone PA).<br/>
+ii) Transportation process (that we created in Step 1) for the transportation of the natural gas from Keystone, PA to Plaquemines, LA).<br/>
 
 <p align="center">
 <br/>
@@ -67,7 +67,7 @@ c) Calculate the results in the ‘WTP Results’ pane by selecting the pathway 
 
 <b>Liquefaction of natural gas and transportation from Louisiana to Germany (using LNG tanker)</b>
 
-This process is designed in the GREET Model in three steps which are as follows:
+This process is designed in the GREET Model in three steps which are as follows:<br/>
 a) Setting up the transportation process from Plaquemines LNG plant, Louisiana to LNG import terminal in Germany (say Hamburg, Germany). The distance between the two is roughly 5000 miles which is set as parameters.
 
 <p align="center">
@@ -75,18 +75,18 @@ a) Setting up the transportation process from Plaquemines LNG plant, Louisiana t
 <a href="https://imgur.com/h9cQ8sh"><img src="https://i.imgur.com/h9cQ8sh.png" alt="Natural Gas transportation as LNG" /></a> 
 </p>
 
-b) Setting up the pathway comprising of four processes/pathways (as shown in Fig 6):
-i) Pathway of the production and transportation of natural gas from a natural gas field in Keystone, PA to LNG export terminal in Plaquemines, LA (from Simulation 1 above).
-ii) Stationary process of Liquefaction of Natural Gas into Liquefied Natural Gas in the Plaquemines LNG plant, LA.
-iii) Transportation process (that we created in Step a) for the transportation of the liquefied natural gas from Plaquemines, LA to LNG terminal in Hamburg, Germany.
-iv) Stationary process of regasification of liquefied natural gas to natural gas.
+b) Setting up the pathway comprising of four processes/pathways (as shown in Fig 6):<br/>
+i) Pathway of the production and transportation of natural gas from a natural gas field in Keystone, PA to LNG export terminal in Plaquemines, LA (from Simulation 1 above).<br/>
+ii) Stationary process of Liquefaction of Natural Gas into Liquefied Natural Gas in the Plaquemines LNG plant, LA.<br/>
+iii) Transportation process (that we created in Step a) for the transportation of the liquefied natural gas from Plaquemines, LA to LNG terminal in Hamburg, Germany.<br/>
+iv) Stationary process of regasification of liquefied natural gas to natural gas.<br/>
 
 <p align="center">
 <br/>
 <a href="https://imgur.com/ei1bSJy"><img src="https://i.imgur.com/ei1bSJy.png" alt="Pathway of LNG transportation" /></a>
 </p>
 
-c) Calculate the results in the ‘WTP Results’ pane by selecting the pathway created in Step 2.
+c) Calculate the results in the ‘WTP Results’ pane by selecting the pathway created in Step 2.<br/>
 
 <p align="center">
 <br/>
