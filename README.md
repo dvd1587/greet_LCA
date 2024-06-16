@@ -1,4 +1,4 @@
-# Basic Solar Project Finance Model
+# LCA Model - Natural Gas Transportation - GREET
 
 <h2>Description</h2>
 This is a simple basic solar project finance model which calculates the future cash flows of a solar development project. 
