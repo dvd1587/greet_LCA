@@ -10,12 +10,11 @@ This is a simple LCA that calculates the carbon footprint in the transportation 
 
 <h2>Introduction</h2>
 
-
 [Greenhouse Gases Regulated Emissions and Energy Use in Transportation](https://greet.anl.gov/files/2011ws-overview-lca) aka the GREET model was developed in 1996 by the Argonne National Laboratory. The GREET LCA model uses more than 100+ fuel production pathways from various energy feedstocks. It measures the inputs, outputs, and environmental impacts of a fuel product system throughout its lifecycle (well to wheels). 
 
 <p align="center">
 <br/>
-<a href="https://imgur.com/v9tGdzn"><img src="https://i.imgur.com/v9tGdzn.jpg" alt="Basic Solar Finance Model" /></a>
+<a href="https://imgur.com/v9tGdzn"><img src="https://www.researchgate.net/profile/Michael-Goldsby-2/publication/255247357/figure/fig1/AS:297854334717952@1448025415223/Fuel-and-vehicle-cycles-examined-in-the-GREET-model.png" alt="Fuel and Vehicle Cycle (GREET)" /></a>
 </p>
 
 <h2>Goal and scope definition:</h2>
