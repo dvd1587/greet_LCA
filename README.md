@@ -21,7 +21,7 @@ The GREET model works by defining the product and its production system, determi
 
 <p align="center">
 <br/>
-<a href="https://imgur.com/zorhZ1A"><img src="https://i.imgur.com/zorhZ1A.png" alt="Natural Gas Production and Delivery" /></a> 
+<a href="https://imgur.com/zorhZ1A"><img src="https://drive.google.com/file/d/15mw73KBeVj92sWAwvl_Q9X_yVW_YtmzA/view?usp=drive_link" alt="Natural Gas Production and Delivery" /></a> 
 </p>
 
 <h2>Goal and scope definition:</h2>
