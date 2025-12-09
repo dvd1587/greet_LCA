@@ -14,14 +14,14 @@ This is a simple LCA that calculates the carbon footprint in the transportation 
 
 <p align="center">
 <br/>
-<a href="https://imgur.com/wWc22r8"><img src="https://i.imgur.com/wWc22r8.jpg" alt="Fuel and Vehicle Cycle (GREET)" /></a> 
+<a href="https://drive.google.com/uc?export=view&id=15mw73KBeVj92sWAwvl_Q9X_yVW_YtmzA"><img src="https://drive.google.com/uc?export=view&id=15mw73KBeVj92sWAwvl_Q9X_yVW_YtmzA" alt="Fuel and Vehicle Cycle (GREET)" /></a> 
 </p>
 
 The GREET model works by defining the product and its production system, determining the inputs and outputs of such a system, which are products, materials, and energy, and then simulating processes that convert input to output.
 
 <p align="center">
 <br/>
-<a href="https://imgur.com/zorhZ1A"><img src="https://drive.google.com/file/d/15mw73KBeVj92sWAwvl_Q9X_yVW_YtmzA/view?usp=drive_link" alt="Natural Gas Production and Delivery" /></a> 
+<a href="https://drive.google.com/uc?export=view&id=1x5mTHHbsJruQzRvd0osSfzVVPEpvT10d"><img src="https://drive.google.com/uc?export=view&id=1x5mTHHbsJruQzRvd0osSfzVVPEpvT10d" alt="Natural Gas Production and Delivery" /></a> 
 </p>
 
 <h2>Goal and scope definition:</h2>
@@ -46,7 +46,7 @@ a) Setting up the transportation process of Natural Gas from a Natural Gas field
 
 <p align="center">
 <br/>
-<a href="https://imgur.com/zh5Q29j"><img src="https://i.imgur.com/zh5Q29j.png" alt="Natural Gas transportation through pipelines" /></a>
+<a href="https://drive.google.com/uc?export=view&id=1PSGqI2IFnCeWfzxxZ673v7W-rlxNoULn"><img src="https://drive.google.com/uc?export=view&id=1PSGqI2IFnCeWfzxxZ673v7W-rlxNoULn" alt="Natural Gas transportation through pipelines" /></a>
 </p>
 
 b) Setting up the pathway of the process comprising of two processes: <br/>
@@ -55,14 +55,14 @@ ii) Transportation process (that we created in Step 1) for the transportation of
 
 <p align="center">
 <br/>
-<a href="https://imgur.com/zCFtW8E"><img src="https://i.imgur.com/zCFtW8E.png" alt="Pathway of Natural Gas transportation" /></a>
+<a href="https://drive.google.com/uc?export=view&id=17O5zxdVjTWMdQyhwgR8GJ8P5LydzToCz"><img src="https://drive.google.com/uc?export=view&id=17O5zxdVjTWMdQyhwgR8GJ8P5LydzToCz" alt="Pathway of Natural Gas transportation" /></a>
 </p>
 
 c) Calculate the results in the ‘WTP Results’ pane by selecting the pathway created in Step 2.
 
 <p align="center">
 <br/>
-<a href="https://imgur.com/2N9h2lk"><img src="https://i.imgur.com/2N9h2lk.png" alt="WTP Results - Natural Gas through pipelines" /></a>
+<a href="https://drive.google.com/uc?export=view&id=1nmH3SduXAoX_1jiYLMVctwEXz6QGMN3l"><img src="https://drive.google.com/uc?export=view&id=1nmH3SduXAoX_1jiYLMVctwEXz6QGMN3l" alt="WTP Results - Natural Gas through pipelines" /></a>
 </p>
 
 <b>Liquefaction of natural gas and transportation from Louisiana to Germany (using LNG tanker)</b>
@@ -72,7 +72,7 @@ a) Setting up the transportation process from Plaquemines LNG plant, Louisiana t
 
 <p align="center">
 <br/>
-<a href="https://imgur.com/h9cQ8sh"><img src="https://i.imgur.com/h9cQ8sh.png" alt="Natural Gas transportation as LNG" /></a> 
+<a href="https://drive.google.com/uc?export=view&id=1wx4Ko_Iu5ttKuZwXceS_tWawGsOLF1Ld"><img src="https://drive.google.com/uc?export=view&id=1wx4Ko_Iu5ttKuZwXceS_tWawGsOLF1Ld" alt="Natural Gas transportation as LNG" /></a> 
 </p>
 
 b) Setting up the pathway comprising of four processes/pathways (as shown in Fig 6):<br/>
@@ -83,14 +83,14 @@ iv) Stationary process of regasification of liquefied natural gas to natural gas
 
 <p align="center">
 <br/>
-<a href="https://imgur.com/ei1bSJy"><img src="https://i.imgur.com/ei1bSJy.png" alt="Pathway of LNG transportation" /></a>
+<a href="https://drive.google.com/uc?export=view&id=1aD642BuI1eob2XNjJHZxfb9KnZdhD7pD"><img src="https://drive.google.com/uc?export=view&id=1aD642BuI1eob2XNjJHZxfb9KnZdhD7pD" alt="Pathway of LNG transportation" /></a>
 </p>
 
 c) Calculate the results in the ‘WTP Results’ pane by selecting the pathway created in Step 2.<br/>
 
 <p align="center">
 <br/>
-<a href="https://imgur.com/jxjui8F"><img src="https://i.imgur.com/jxjui8F.png" alt="WTP Results - Natural Gas as LNG" /></a>
+<a href="https://drive.google.com/uc?export=view&id=1EiWRkBs79YomqUCmVGk1t6ebFQUAlVUK"><img src="https://drive.google.com/uc?export=view&id=1EiWRkBs79YomqUCmVGk1t6ebFQUAlVUK" alt="WTP Results - Natural Gas as LNG" /></a>
 </p>
 
 <h2>Impact Assessment (CO2 Total Emissions):</h2>
